@@ -38,7 +38,7 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 
 ### [SymphonyAgents](https://github.com/smaliaquib/SymphonyAgents) — Multi-Agent Orchestration Framework
 
-🎶 Built a **multi-agent orchestration framework** for **autonomous workflow coordination**, featuring modular agents (Planner, Executor, Checker, Orchestrator) and **serverless deployment via AWS Lambda + CDK**. Included an **agentic workflow diagram** for visualizing task hand-offs and agent collaboration.
+🎶 Built a **multi-agent orchestration framework** for **autonomous workflow coordination**, featuring modular agents (Planner, Executor, Checker, Orchestrator) and **serverless deployment via AWS Lambda, Bedrock, CDK**. Included an **agentic workflow diagram** for visualizing task hand-offs and agent collaboration.
 
 ### [Grocerly](https://github.com/smaliaquib/Grocerly) — Grocery Ordering AI Agent  
 🛒 Built an agentic system using **AWS CDK, Step Functions, DynamoDB, and Bedrock** for intent-driven grocery order automation.
