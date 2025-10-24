@@ -17,8 +17,8 @@
 
 🤖 **AI Engineer | Cloud AI & MLOps | Distributed LLM Training & RAG Systems**
 
-I’m **Aquib A. Khan**, an **AI Engineer** pursuing my M.S. in Data Science at **Pace University (New York)** with a 3.7 GPA.  
-I specialize in **large-scale LLM systems**, **multi-agent orchestration**, and **cloud-native MLOps**, blending applied research with production-grade infrastructure on **AWS, GCP, and Azure**.  
+I’m **Aquib A. Khan**, an **AI Engineer** pursuing my M.S. in Data Science at **Pace University (New York)**.  
+I specialize in **large-scale LLM systems**, **multi-agent orchestration**, and **cloud-native MLOps**, blending applied research with production-grade infrastructure on **AWS & GCP**.  
 
 With 4+ years of experience spanning **data science, NLP, and AI engineering**, I design scalable, cost-efficient, and reliable ML/LLM pipelines that bridge research and production.
 
@@ -37,22 +37,23 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 
 ## 🚀 Featured AI & Cloud Projects
 
-- **[SafeMedAI](https://github.com/smaliaquib/SafeMedAI)** — Adverse Drug Reaction Detection & Prediction  
-  🧬 Built full-stack data pipeline on AWS (S3, Lambda, EKS, Prometheus, Grafana) for ADR analysis using XGBoost & LSTMs.
+### [SafeMedAI](https://github.com/smaliaquib/SafeMedAI) — Adverse Drug Reaction Detection & Prediction  
+🧬 Built full-stack data pipeline on **AWS (S3, Lambda, EKS, Prometheus, Grafana)** for ADR analysis using **XGBoost & LSTMs**.
 
-- **[MirrorMuse](https://github.com/smaliaquib/MirrorMuse)** — Interview Assistant with LLM Feedback  
-  💬 Multi-agent RAG system that generates targeted interview questions and feedback via LangGraph + Qdrant + vLLM.
+### [MirrorMuse](https://github.com/smaliaquib/MirrorMuse) — Interview Assistant with LLM Feedback  
+💬 Multi-agent **RAG system** that generates targeted interview questions and feedback via **LangGraph + Qdrant + vLLM**.
 
-- **[Grocerly](https://github.com/smaliaquib/Grocerly)** — Grocery Ordering AI Agent  
-  🛒 Built an agentic system using AWS CDK, Step Functions, DynamoDB, and Bedrock for intent-driven grocery order automation.
+### [Grocerly](https://github.com/smaliaquib/Grocerly) — Grocery Ordering AI Agent  
+🛒 Built an agentic system using **AWS CDK, Step Functions, DynamoDB, and Bedrock** for intent-driven grocery order automation.
 
-- **[PipeSense NYC](https://github.com/smaliaquib/PipeSense)** — Lead Service Line Prioritization  
-  🏙️ Developed LightGBM-based risk scoring model integrating PLUTO + LSL datasets to prioritize lead service line replacement.
+### [PipeSense NYC](https://github.com/smaliaquib/unified-ml-lab) — Lead Service Line Prioritization  
+🏙️ Developed **LightGBM-based risk scoring model** integrating **PLUTO + LSL datasets** to prioritize lead service line replacement.
 
-- **[CreditGuard](https://github.com/smaliaquib/CreditGuard)** — Credit Risk Prediction  
-  🏦 PySpark + MLflow + LightGBM pipeline to reduce loan default risk by 18% through data drift retraining and feature stores.
+### [CreditGuard](https://github.com/smaliaquib/CreditGuard) — Credit Risk Prediction  
+🏦 **PySpark + MLflow + LightGBM** pipeline to reduce loan default risk by 18% through data-drift retraining and feature stores.
 
 ---
+
 
 ## 🧩 Technical Expertise
 
@@ -92,4 +93,3 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/b
