@@ -44,7 +44,7 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 🛒 Built an agentic system using **AWS CDK, Step Functions, DynamoDB, and Bedrock** for intent-driven grocery order automation.
 
 ### [Unified-ML-Lab](https://github.com/smaliaquib/unified-ml-lab) — Distributed ML Experimentation Platform  
-🧩 Developed a **unified training and experimentation platform** across **Hugging Face, SageMaker, Vertex AI, and Azure ML**, using **FSDP, DeepSpeed, and Ray Tune** for large-scale distributed training.
+🧩 Developed a **unified training and experimentation platform** across **Hugging Face, vLLM, Unsloth, SageMaker, Vertex AI, and Azure ML**, using **FSDP, DeepSpeed, and Ray ** for large-scale distributed training.
 
 ### [LLM-PROD](https://github.com/smaliaquib/LLM-PROD) — LLMOps Production Framework  
 ⚙️ Designed a **modular LLM production pipeline** integrating **LangChain, vLLM, Triton, and Prometheus** for high-throughput inference, monitoring, and scalable model serving with **KServe + Ray Serve**.
