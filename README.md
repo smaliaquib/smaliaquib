@@ -38,26 +38,25 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 
 ### [SymphonyAgents](https://github.com/smaliaquib/SymphonyAgents) — Multi-Agent Orchestration Framework
 
-🎶 Built a **multi-agent orchestration framework** for **autonomous workflow coordination**, featuring modular agents (Planner, Executor, Checker, Orchestrator) and **serverless deployment via AWS Lambda, Bedrock, CDK**. Included an **agentic workflow diagram** for visualizing task hand-offs and agent collaboration.
+🎶 Built a **multi-agent orchestration framework** for **autonomous workflow coordination**, featuring modular agents (Planner, Executor, Checker, Orchestrator) and **serverless deployment via AWS Lambda, Pinecone, Bedrock, CDK**. Included an **agentic workflow diagram** for visualizing task hand-offs and agent collaboration.
 
 ### [Grocerly](https://github.com/smaliaquib/Grocerly) — Grocery Ordering AI Agent  
 🛒 Built an agentic system using **AWS CDK, Step Functions, DynamoDB, and Bedrock** for intent-driven grocery order automation.
 
 ### [Unified-ML-Lab](https://github.com/smaliaquib/unified-ml-lab) — Distributed ML Experimentation Platform  
-🧩 Developed a **unified training and experimentation platform** across **Hugging Face, vLLM, Unsloth, SageMaker, Vertex AI, and Azure ML**, using **FSDP, DeepSpeed, and Ray ** for large-scale distributed training.
+🧩 Developed a **unified training and experimentation platform** across **Hugging Face, vLLM, Unsloth, SageMaker, Vertex AI, and Azure ML**, using **FSDP**, DeepSpeed, and **Ray** for large-scale distributed training.
 
 ### [LLM-PROD](https://github.com/smaliaquib/LLM-PROD) — LLMOps Production Framework  
-⚙️ Designed a **modular LLM production pipeline** integrating **LangChain, vLLM, Triton, and Prometheus** for high-throughput inference, monitoring, and scalable model serving with **KServe + Ray Serve**.
+⚙️ Designed a **modular LLM production pipeline** integrating **Pytorch, HuggingFace, Kubernetes, Docker, fastapi, Prometheus, Grafana** for high-throughput inference, monitoring, and scalable model serving with **KServe + TorchServe**.
 
 ### [MirrorMuse](https://github.com/smaliaquib/MirrorMuse) — Interview Assistant with LLM Feedback  
-💬 Multi-agent **RAG system** that generates targeted interview questions and feedback via **LangGraph + Qdrant + vLLM**.
+💬 Multi-agent **RAG system** that generates targeted interview questions and feedback via **Langchain + Qdrant**, **MongoDB**, **Sagemaker**, **Zen Ml**.
 
-### [PipeSense NYC](https://github.com/smaliaquib/unified-ml-lab) — Lead Service Line Prioritization  
+### [PipeSense NYC](https://github.com/smaliaquib/PipeSense) — Lead Service Line Prioritization  
 🏙️ Developed **LightGBM-based risk scoring model** integrating **PLUTO + LSL datasets** to prioritize lead service line replacement.
 
 ### [CreditGuard](https://github.com/smaliaquib/CreditGuard) — Credit Risk Prediction  
 🏦 **PySpark + MLflow + LightGBM** pipeline to reduce loan default risk by 18% through data-drift retraining and feature stores.
-
 
 ### [AI-NLP-Lab](https://github.com/smaliaquib/AI-NLP-Lab) — NLP Model Research & Fine-Tuning Hub  
 🧠 Centralized workspace for **transformer model fine-tuning**, **LoRA/QLoRA adapters**, and **evaluation pipelines** using **RAGAS, BLEU, and LLM-as-a-Judge** metrics.
