@@ -52,11 +52,12 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 ### [MirrorMuse](https://github.com/smaliaquib/MirrorMuse) — Interview Assistant with LLM Feedback  
 💬 Multi-agent **RAG system** that generates targeted interview questions and feedback via **Langchain + Qdrant**, **MongoDB**, **Sagemaker**, **Zen Ml**.
 
-### [PipeSense NYC](https://github.com/smaliaquib/PipeSense) — Lead Service Line Prioritization  
-🏙️ Developed **LightGBM-based risk scoring model** integrating **PLUTO + LSL datasets** to prioritize lead service line replacement.
 
 ### [CreditGuard](https://github.com/smaliaquib/CreditGuard) — Credit Risk Prediction  
-🏦 **PySpark + MLflow + LightGBM** pipeline to reduce loan default risk by 18% through data-drift retraining and feature stores.
+🏦 **PySpark + MLflow + LightGBM + Azure Databricks** pipeline to reduce loan default risk by 18% through data-drift retraining and feature stores.
+
+### [PipeSense NYC](https://github.com/smaliaquib/PipeSense) — Lead Service Line Prioritization  
+🏙️ Developed **LightGBM-based risk scoring model** integrating **PLUTO + LSL datasets** to prioritize lead service line replacement.
 
 ### [AI-NLP-Lab](https://github.com/smaliaquib/AI-NLP-Lab) — NLP Model Research & Fine-Tuning Hub  
 🧠 Centralized workspace for **transformer model fine-tuning**, **LoRA/QLoRA adapters**, and **evaluation pipelines** using **RAGAS, BLEU, and LLM-as-a-Judge** metrics.
