@@ -73,28 +73,6 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 
 ---
 
-
-## Technical Expertise
-
-**Languages:** Python, TypeScript, SQL, PySpark, C++, JavaScript  
-**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, ONNX, FastAPI, Streamlit  
-**DevOps & Cloud:** AWS (CDK, Lambda, S3, Bedrock), GCP (Cloud Run, Vertex AI), Azure (Container Apps, Databricks)  
-**MLOps:** MLflow, ArgoCD, Terraform, Docker, KServe, Prometheus, Grafana, EvidentlyAI  
-**LLM / NLP Stack:** LangChain, LangGraph, vLLM, FAISS, Pinecone, Qdrant, RAGAS, DeepEval  
-**Data & Infra:** PostgreSQL, MongoDB, DynamoDB, Kafka, Airflow  
-
----
-
-## Recent Highlights
-
-- Fine-tuned **GPTs, Claude, and open-source LLMs** with **LoRA, DPO, and RLHF**, achieving **0.87 correlation with GPT-4**.  
-- Designed **multi-agent RAG architecture** (Supervisor–Task–FAQ–Content agents) with **79% task autonomy**.  
-- Achieved **35% GPU cost reduction** and **2× faster provisioning** via **vLLM quantization + autoscaling**.  
-- Automated ingestion of **100K+ documents/month** from S3 → PostgreSQL via **Textract, SQS, and Step Functions**.  
-- Containerized APIs with **Docker + FastAPI**, deployed with **KServe + Prometheus + Grafana** for full observability.  
-
----
-
 ## Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
