@@ -42,7 +42,7 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 ### [Grocerly](https://github.com/smaliaquib/Grocerly) — Grocery Ordering AI Agent  
    Built an agentic system using **AWS CDK, Step Functions, DynamoDB, and Bedrock** for intent-driven grocery order automation.
 
-### [Perceptra](https://github.com/smaliaquib/Perceptra) — Cloud-Native AI/ML MLOps Boilerplate
+### [Perceptra](https://github.com/smaliaquib/Perceptra) — Cloud-Native ML Pipeline 
 
    Designed a **production-ready MLOps framework** integrating **Azure ML, AKS, FastAPI, Docker, MLflow, Azure Key Vault, App Insights, Azure DevOps and Locust** for seamless model training, deployment, monitoring, and load testing. 
 
