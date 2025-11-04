@@ -37,41 +37,44 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 ## 🚀 Featured AI & Cloud Projects
 
 ### [SymphonyAgents](https://github.com/smaliaquib/SymphonyAgents) — Multi-Agent Orchestration Framework
-
-🎶 Built a **multi-agent orchestration framework** for **autonomous workflow coordination**, featuring modular agents (Planner, Executor, Checker, Orchestrator) and **serverless deployment via AWS Lambda, Pinecone, Bedrock, CDK**. Included an **agentic workflow diagram** for visualizing task hand-offs and agent collaboration.
+  Built a **multi-agent orchestration framework** for **autonomous workflow coordination**, featuring modular agents (Planner, Executor, Checker, Orchestrator) and **serverless deployment via AWS Lambda, Pinecone, Bedrock, CDK**. Included an **agentic workflow diagram** for visualizing task hand-offs and agent collaboration.
 
 ### [Grocerly](https://github.com/smaliaquib/Grocerly) — Grocery Ordering AI Agent  
-🛒 Built an agentic system using **AWS CDK, Step Functions, DynamoDB, and Bedrock** for intent-driven grocery order automation.
+   Built an agentic system using **AWS CDK, Step Functions, DynamoDB, and Bedrock** for intent-driven grocery order automation.
+
+### [Perceptra](https://github.com/smaliaquib/Perceptra) — Cloud-Native AI/ML MLOps Boilerplate
+
+   Designed a **production-ready MLOps framework** integrating **Azure ML, AKS, FastAPI, Docker, MLflow, Azure Key Vault, App Insights, Azure DevOps and Locust** for seamless model training, deployment, monitoring, and load testing. 
 
 ### [Unified-ML-Lab](https://github.com/smaliaquib/unified-ml-lab) — Distributed ML Experimentation Platform  
-🧩 Developed a **unified training and experimentation platform** across **Hugging Face, vLLM, Unsloth, SageMaker, Vertex AI, and Azure ML**, using **FSDP**, DeepSpeed, and **Ray** for large-scale distributed training.
+   Developed a **unified training and experimentation platform** across **Hugging Face, vLLM, Unsloth, SageMaker, Vertex AI, and Azure ML**, using **FSDP**, DeepSpeed, and **Ray** for large-scale distributed training.
 
 ### [LLM-PROD](https://github.com/smaliaquib/LLM-PROD) — LLMOps Production Framework  
-⚙️ Designed a **modular LLM production pipeline** integrating **Pytorch, HuggingFace, Kubernetes, Docker, fastapi, Prometheus, Grafana** for high-throughput inference, monitoring, and scalable model serving with **KServe + TorchServe**.
+   Designed a **modular LLM production pipeline** integrating **Pytorch, HuggingFace, Kubernetes, Docker, fastapi, Prometheus, Grafana** for high-throughput inference, monitoring, and scalable model serving with **KServe + TorchServe**.
 
 ### [MirrorMuse](https://github.com/smaliaquib/MirrorMuse) — Interview Assistant with LLM Feedback  
-💬 Multi-agent **RAG system** that generates targeted interview questions and feedback via **Langchain + Qdrant**, **MongoDB**, **Sagemaker**, **Zen Ml**.
+   Multi-agent **RAG system** that generates targeted interview questions and feedback via **Langchain + Qdrant**, **MongoDB**, **Sagemaker**, **Zen Ml**.
 
 
 ### [CreditGuard](https://github.com/smaliaquib/CreditGuard) — Credit Risk Prediction  
-🏦 **PySpark + MLflow + LightGBM + Azure Databricks** pipeline to reduce loan default risk by 18% through data-drift retraining and feature stores.
+   **PySpark + MLflow + LightGBM + Azure Databricks** pipeline to reduce loan default risk by 18% through data-drift retraining and feature stores.
 
 ### [PipeSense NYC](https://github.com/smaliaquib/PipeSense) — Lead Service Line Prioritization  
-🏙️ Developed **LightGBM-based risk scoring model** integrating **PLUTO + LSL datasets** to prioritize lead service line replacement.
+   Developed **LightGBM-based risk scoring model** integrating **PLUTO + LSL datasets** to prioritize lead service line replacement.
 
 ### [AI-NLP-Lab](https://github.com/smaliaquib/AI-NLP-Lab) — NLP Model Research & Fine-Tuning Hub  
-🧠 Centralized workspace for **transformer model fine-tuning**, **LoRA/QLoRA adapters**, and **evaluation pipelines** using **RAGAS, BLEU, and LLM-as-a-Judge** metrics.
+   Centralized workspace for **transformer model fine-tuning**, **LoRA/QLoRA adapters**, and **evaluation pipelines** using **RAGAS, BLEU, and LLM-as-a-Judge** metrics.
 
 ### [Paper2Code](https://github.com/smaliaquib/Paper2Code) — AI Research Implementation Framework  
-📄 Implemented key **AI/ML/NLP research papers** end-to-end with reproducible PyTorch pipelines; integrated **Weights & Biases + MLflow** for experiment tracking and comparative benchmarking.
+   Implemented key **AI/ML/NLP research papers** end-to-end with reproducible PyTorch pipelines; integrated **Weights & Biases + MLflow** for experiment tracking and comparative benchmarking.
 
 ### [SafeMedAI](https://github.com/smaliaquib/SafeMedAI) — Adverse Drug Reaction Detection & Prediction  
-🧬 Built full-stack data pipeline on **AWS (S3, Lambda, EKS, Prometheus, Grafana)** for ADR analysis using **XGBoost & LSTMs**.
+   Built full-stack data pipeline on **AWS (S3, Lambda, EKS, Prometheus, Grafana)** for ADR analysis using **XGBoost & LSTMs**.
 
 ---
 
 
-## 🧩 Technical Expertise
+## Technical Expertise
 
 **Languages:** Python, TypeScript, SQL, PySpark, C++, JavaScript  
 **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, ONNX, FastAPI, Streamlit  
@@ -82,7 +85,7 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 
 ---
 
-## 🧪 Recent Highlights
+## Recent Highlights
 
 - Fine-tuned **GPTs, Claude, and open-source LLMs** with **LoRA, DPO, and RLHF**, achieving **0.87 correlation with GPT-4**.  
 - Designed **multi-agent RAG architecture** (Supervisor–Task–FAQ–Content agents) with **79% task autonomy**.  
@@ -92,7 +95,7 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
@@ -123,7 +126,6 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3)
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=for-the-badge&logo=amazonsagemaker)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 ![Evidently AI](https://img.shields.io/badge/Evidently%20AI-000000?style=for-the-badge)
