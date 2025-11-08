@@ -46,6 +46,10 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 
    Designed a **production-ready MLOps framework** integrating **Azure ML, AKS, FastAPI, Docker, MLflow, Azure Key Vault, App Insights, Azure DevOps and Locust** for seamless model training, deployment, monitoring, and load testing. 
 
+### [DepositAI](https://github.com/smaliaquib/DepositAI) — Intelligent Term Deposit Subscription Predictor
+
+  Developed a predictive analytics pipeline using Python, Scikit-Learn, and statistical modeling to analyze banking marketing interactions and forecast customer likelihood to subscribe to term deposits, enabling targeted campaign optimization and improved conversion strategy.
+
 ### [Unified-ML-Lab](https://github.com/smaliaquib/unified-ml-lab) — Distributed ML Experimentation Platform  
    Developed a **unified training and experimentation platform** across **Hugging Face, vLLM, Unsloth, SageMaker, Vertex AI, and Azure ML**, using **FSDP**, DeepSpeed, and **Ray** for large-scale distributed training.
 
