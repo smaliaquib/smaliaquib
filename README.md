@@ -26,12 +26,12 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 
 ## 🧠 About Me
 
-- 🎓 **M.S. Data Science**, Pace University, New York (Dec 2025)  
-- 💼 **AI Engineer**, National Institute of Technology (Remote)  
-- 💻 **Ex-Data Scientist**, Stylumia (Bengaluru, India)  
-- ☁️ **Multi-cloud Expertise:** AWS, GCP, Azure  
-- 🎯 Passionate about **LLM alignment, agentic architectures, and intelligent automation**  
-- 🌐 [www.aquibali.space](https://www.aquibali.space)
+- **M.S. Data Science**, Pace University, New York (Dec 2025)  
+- **AI Engineer**, National Institute of Technology (Remote)  
+- **Ex-Data Scientist**, Stylumia (Bengaluru, India)  
+- **Multi-cloud Expertise:** AWS, GCP, Azure  
+- Passionate about **LLM alignment, agentic architectures, and intelligent automation**  
+- [www.aquibali.space](https://www.aquibali.space)
 
 
 ## 🚀 Featured AI & Cloud Projects
