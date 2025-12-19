@@ -18,7 +18,7 @@
 🤖 **AI Engineer | Cloud AI & MLOps | Distributed LLM Training & RAG Systems**
 
 I’m **Aquib A. Khan**, an **AI Engineer** pursuing my M.S. in Data Science at **Pace University (New York)**.  
-I specialize in **large-scale LLM systems**, **multi-agent orchestration**, and **cloud-native MLOps**, blending applied research with production-grade infrastructure on **AWS & GCP**.  
+I specialize in **large-scale LLM systems**, **multi-agent orchestration**, and **cloud-native MLOps**, blending applied research with production-grade infrastructure on **AWS & Azure**.  
 
 With 4+ years of experience spanning **data science, NLP, and AI engineering**, I design scalable, cost-efficient, and reliable ML/LLM pipelines that bridge research and production.
 
@@ -29,7 +29,7 @@ With 4+ years of experience spanning **data science, NLP, and AI engineering**, 
 - **M.S. Data Science**, Pace University, New York (Dec 2025)  
 - **AI Engineer**, National Institute of Technology (Remote)  
 - **Ex-Data Scientist**, Stylumia (Bengaluru, India)  
-- **Multi-cloud Expertise:** AWS, GCP, Azure  
+- **Multi-cloud Expertise:** AWS, Azure  
 - Passionate about **LLM alignment, agentic architectures, and intelligent automation**  
 - [www.aquibali.space](https://www.aquibali.space)
 
