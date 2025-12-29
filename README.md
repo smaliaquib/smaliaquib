@@ -20,7 +20,7 @@
 I’m **Aquib A. Khan**, an **AI Engineer** pursuing my M.S. in Data Science at **Pace University (New York)**.  
 I specialize in **large-scale LLM systems**, **multi-agent orchestration**, and **cloud-native MLOps**, blending applied research with production-grade infrastructure on **AWS & Azure**.  
 
-With 4+ years of experience spanning **data science, NLP, and AI engineering**, I design scalable, cost-efficient, and reliable ML/LLM pipelines that bridge research and production.
+With 4 years of experience spanning **data science, NLP, and AI engineering**, I design scalable, cost-efficient, and reliable ML/LLM pipelines that bridge research and production.
 
 ---
 
