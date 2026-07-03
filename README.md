@@ -30,7 +30,6 @@ With 4 years of experience spanning **data science, NLP, and AI engineering**, I
 - **Ex-Data Scientist**, Stylumia (Bengaluru, India)  
 - **Multi-cloud Expertise:** AWS, Azure  
 - Passionate about **LLM alignment, agentic architectures, and intelligent automation**  
-- [www.aquibali.space](https://www.aquibali.space)
 
 
 ## 🚀 Featured AI & Cloud Projects
