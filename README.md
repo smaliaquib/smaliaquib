@@ -34,6 +34,9 @@ With 4 years of experience spanning **data science, NLP, and AI engineering**, I
 
 ## 🚀 Featured AI & Cloud Projects
 
+### [Ironclad](https://github.com/smaliaquib/ironclad) — AI  Application
+  Built a **full-stack streaming chat application** with a **multi-service microservice architecture**, featuring a React + TypeScript frontend, Go API gateway, and Python FastAPI agent backend powered by **Claude Haiku via AWS Bedrock**, connected end-to-end via **Server-Sent Events (SSE)** for real-time token streaming. Included **Dockerized local orchestration and Terraform-defined AWS ECS Fargate infrastructure** (per-service tasks, ALB routing, Cloud Map service discovery, per-branch CI/CD pipelines) for production deployment.
+
 ### [SymphonyAgents](https://github.com/smaliaquib/SymphonyAgents) — Multi-Agent Orchestration Framework
   Built a **Serverless multi-agent orchestration framework** for **autonomous workflow coordination**, featuring modular agents (Planner, Executor, Checker, Orchestrator) and **serverless deployment via AWS Lambda, Pinecone, OpenSearch, Bedrock, Agentcore Runtime, CDK**. Included an **agentic workflow diagram** for visualizing task hand-offs and agent collaboration.
 
