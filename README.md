@@ -25,8 +25,8 @@ With 4.5+ years of experience spanning **data science, NLP, and AI engineering**
 
 ## 🧠 About Me
 
-- **M.S. Data Science**, Pace University, New York (Dec 2025)
 - **AI Platform Engineer**, Fullthrottle.ai (Remote)  
+- **M.S. Data Science**, Pace University, New York (Dec 2025)
 - **AI Engineer**, National Institute of Technology (Remote)  
 - **Ex-Data Scientist**, Stylumia (Bengaluru, India)  
 - **Multi-cloud Expertise:** AWS, Azure  
